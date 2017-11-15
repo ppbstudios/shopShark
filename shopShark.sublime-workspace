@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Que",
+				"QuestionAdmin\tclass"
+			],
+			[
+				"templ",
+				"template_name\tstatement"
+			],
+			[
+				"selec",
+				"selected_choice\tstatement"
+			],
+			[
+				"que",
+				"question\tstatement"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"question",
+				"question_id"
+			],
+			[
+				"date",
+				"datetime\tmodule"
+			],
+			[
+				"pu",
+				"pub_date\tstatement"
+			],
+			[
+				"def",
+				"default\tparam"
+			],
+			[
+				"In",
+				"IntegerField\tclass"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"re",
+				"revisitParentEl"
+			],
+			[
+				"last",
+				"lastParamOfCurURL"
+			],
+			[
+				"cli",
+				"clickTarget"
+			],
+			[
+				"par",
+				"parentID"
+			],
+			[
+				"pare",
+				"parentID"
+			],
+			[
+				"la",
+				"lastParam"
+			],
+			[
+				"onC",
+				"onClickSubCat"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"pa",
+				"parentID"
+			],
+			[
+				"sub",
+				"subURL"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"sl",
+				"slideDown"
+			],
+			[
+				"sli",
+				"slideUp"
+			],
+			[
+				"regis",
+				"register_end_date"
+			],
+			[
+				"register",
+				"register_start_date"
+			],
+			[
+				"seria",
+				"serialCheck"
+			],
+			[
+				"get",
+				"getRequest"
+			],
+			[
+				"tota",
+				"totalPrice"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"is",
+				"isAjaxDone"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"Ndetail",
+				"Ndetail_C1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "wra",
+		"selected_items":
+		[
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sav",
+				"File: Save All"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packdis",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ana",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				":reg",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"save ",
+				"File: Save All"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"be",
+				"PHP CodeBeautifier"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"pph",
+				"PHP CodeBeautifier"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"bea",
+				"PHP CodeBeautifier"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Git/tools/shopShark"
+	],
+	"file_history":
+	[
+		"/C/Users/PPBSTUDIOS/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/PPBSTUDIOS/Envs/djangoDev/lib/site-packages/django/template/loader.py",
+		"/C/Git/tools/django/polls/admin.py",
+		"/C/Git/tools/django/polls/static/polls/style.css",
+		"/C/Git/tools/django/polls/tests.py",
+		"/C/Git/tools/django/templates/admin/base_site.html",
+		"/C/Git/tools/django/templates/admin/index.html",
+		"/C/Git/tools/django/shopstealer/settings.py",
+		"/C/Git/tools/django/polls/models.py",
+		"/C/Git/tools/django/shopstealer/urls.py",
+		"/C/Git/tools/django/polls/templates/polls/index.html",
+		"/C/Git/tools/django/polls/templates/polls/detail.html",
+		"/C/Git/tools/django/polls/templates/polls/results.html",
+		"/C/Git/tools/django/polls/views.py",
+		"/C/Git/tools/django/polls/urls.py",
+		"/C/Users/PPBSTUDIOS/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Git/tools/django/polls/apps.py",
+		"/C/Git/tools/django/polls/migrations/__init__.py",
+		"/C/Git/tools/django/manage.py",
+		"/C/Users/PPBSTUDIOS/AppData/Roaming/Sublime Text 3/Packages/User/shotstealer.sublime-project",
+		"/C/Users/PPBSTUDIOS/AppData/Roaming/Sublime Text 3/Packages/phpcbf/phpcbf.sublime-settings",
+		"/C/Git/tools/shopstealer/shopstealer/__init__.py",
+		"/C/Git/tools/shopstealer/manage.py",
+		"/C/Git/getShop2/getImageFromShopDB.php",
+		"/C/Git/Tools/taobao_invoice_print/tip/src/components/Main/index.js",
+		"/C/Git/websites/mossbean/sideNavigation.js",
+		"/C/Git/product_db_management/footer.php",
+		"/C/Git/product_db_management/global.php",
+		"/C/Git/jbkAdmin/menu/product/index.php",
+		"/C/Git/jbkAdmin/menu/product/size.php",
+		"/C/Git/jbkAdmin/js/product.js",
+		"/C/Git/jbkAdmin/menu/product/export.php",
+		"/C/Git/jbkAdmin/api/module/ProductSizeAPI.class.php",
+		"/C/Git/jbkAdmin/lib/UtilJbkAdminJson.class.php",
+		"/C/Git/jbkAdmin/api/module/ModuleAPI.class.php",
+		"/C/Git/jbkAdmin/api/module/UserAPI.class.php",
+		"/C/Git/jbkAdmin/api/module/ProviderAPI.class.php",
+		"/C/Git/jbkAdmin/api/module/CategoryInfoOptionAPI.class.php",
+		"/C/Git/jbkAdmin/js/jquery-ui/external/jquery/jquery.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shopShark.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pollstemde",
+				"polls\\templates\\polls\\detail.html"
+			],
+			[
+				"pollsurls",
+				"polls\\urls.py"
+			],
+			[
+				"pollsvi",
+				"polls\\views.py"
+			],
+			[
+				"mainindex",
+				"tip\\src\\components\\Main\\index.js"
+			],
+			[
+				"view",
+				"menu\\product\\view_m.php"
+			],
+			[
+				"",
+				"global.php"
+			],
+			[
+				"export.php",
+				"menu\\product\\export.php"
+			],
+			[
+				"export",
+				"menu\\product\\export.php"
+			],
+			[
+				"viewpro",
+				"menu\\product\\view_product.inc.php"
+			],
+			[
+				"product.js",
+				"js\\product.js"
+			],
+			[
+				"mod.",
+				"menu\\product\\mod.php"
+			],
+			[
+				"modu",
+				"api\\module\\ModuleAPI.class.php"
+			],
+			[
+				"global",
+				"global.php"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"product",
+				"js\\product.js"
+			],
+			[
+				"add.p",
+				"menu\\product\\add.php"
+			],
+			[
+				"mod.php",
+				"menu\\product\\mod.php"
+			],
+			[
+				"glo",
+				"global.js"
+			],
+			[
+				"getch",
+				"getChi_jQuery.html"
+			],
+			[
+				"shopdb",
+				"getShopDB.php"
+			],
+			[
+				"uptown",
+				"getUptownHolic_jQuery.html"
+			],
+			[
+				"getshop",
+				"getImageFromShopDB.php"
+			],
+			[
+				"getshopdb",
+				"getShopDB.php"
+			],
+			[
+				"getsho",
+				"getShopDB.php"
+			],
+			[
+				"getfi",
+				"getFiona_jQuery.html"
+			],
+			[
+				"getup",
+				"getUptownHolic_jQuery.html"
+			],
+			[
+				"get",
+				"getFiona_jQuery.html"
+			],
+			[
+				"getb",
+				"getBNC_jQuery.html"
+			],
+			[
+				"getu",
+				"getUptownHolic_jQuery.html"
+			],
+			[
+				"apimodule",
+				"api\\module\\ModuleAPI.class.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 104.0,
+		"last_filter": "getProductEx",
+		"selected_items":
+		[
+			[
+				"getProductEx",
+				"getProductExportData"
+			],
+			[
+				"put",
+				"put"
+			]
+		],
+		"width": 500.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
